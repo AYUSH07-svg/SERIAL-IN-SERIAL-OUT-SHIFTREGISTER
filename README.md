@@ -1,5 +1,5 @@
-Developed by: SIDDHARTH S 
-RegisterNumber: 24002384
+Developed by: AYUSH S 
+RegisterNumber: 24002017
 
 
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
@@ -43,7 +43,7 @@ Type the program in Quartus software.
 /* write all the steps invloved */
 
 **PROGRAM**
-
+```
 module Exp10(clk, sin, q);
 
 input clk;
@@ -68,7 +68,7 @@ q[3] <= q[2];
 
 end
 endmodule 
-
+```
 **RTL LOGIC FOR SISO Shift Register**
 
 ![Screenshot 2024-12-23 202127](https://github.com/user-attachments/assets/cb3999ad-3908-4f4d-9451-776c444ee02b)
